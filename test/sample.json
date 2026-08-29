@@ -1,0 +1,16 @@
+{
+  "source": "artificialintelligencejobs.co",
+  "generated": "2026-08-29 05:38 UTC",
+  "total_live": 19023,
+  "matched": 42,
+  "returned": 5,
+  "offset": 0,
+  "jobs": [
+    {"title":"Member of Technical Staff (Software Engineer, Acceleration)","company":"Perplexity","location":"San Francisco","remote":false,"category":"Research","level":"Senior","region":"US","salary":"$250K – $405K • Offers Equity","posted":"2026-08-29","url":"https://artificialintelligencejobs.co/jobs/perplexity-mts-2afc08f3","apply_url":"https://jobs.ashbyhq.com/perplexity/f45ba174"},
+    {"title":"Senior commercial counsel","company":"Writer","location":"San Francisco, CA","remote":true,"category":"Operations","level":"Senior","region":"US","salary":"$200.9K – $282.1K • Offers Equity","posted":"2026-08-29","url":"https://artificialintelligencejobs.co/jobs/writer-693ddea1","apply_url":"https://jobs.ashbyhq.com/writer/2774a697"},
+    {"title":"VP Legal, Strategic Transactions","company":"Cerebras","location":"Sunnyvale, CA","remote":true,"category":"Operations","level":"Lead+","region":"US","salary":null,"posted":"2026-08-27","url":"https://artificialintelligencejobs.co/jobs/cerebras-75846ce8","apply_url":"https://jobs.ashbyhq.com/cerebras/d00a69be"},
+    {"title":"Embedded Software Engineer II","company":"Varda Space Industries","location":"El Segundo, CA","remote":false,"category":"Engineering","level":"Mid","region":"US","salary":null,"posted":"2026-08-10","url":"https://artificialintelligencejobs.co/jobs/varda-3c1ef447","apply_url":"https://job-boards.greenhouse.io/vardaspace/jobs/7978942003"},
+    {"title":"Senior Applied Research Scientist, Data Curation","company":"NVIDIA","location":"6 Locations","remote":false,"category":"Research","level":"Senior","region":"Other","salary":null,"posted":"2026-07-01","url":"https://artificialintelligencejobs.co/jobs/nvidia-567e7f97","apply_url":"https://nvidia.wd5.myworkdayjobs.com/x"}
+  ],
+  "docs": "https://artificialintelligencejobs.co/developers"
+}
